@@ -156,7 +156,7 @@ export function ApplyJobModal({
             <button
               type="submit"
               disabled={isUploading || !file}
-              className="flex-1 px-4 py-3 bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700 text-white rounded-xl transition-all disabled:opacity-50 disabled:cursor-not-allowed font-semibold shadow-md hover:shadow-lg transform hover:scale-105 disabled:transform-none"
+              className="flex-1 px-4 py-3 bg-linear-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700 text-white rounded-xl transition-all disabled:opacity-50 disabled:cursor-not-allowed font-semibold shadow-md hover:shadow-lg transform hover:scale-105 disabled:transform-none"
             >
               {isUploading ? 'Enviando...' : 'Enviar postulación'}
             </button>
