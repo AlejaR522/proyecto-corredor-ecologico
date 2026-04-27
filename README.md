@@ -1,5 +1,5 @@
 
-# BOLSA DE EMPLEPO PARA HABITANTES DEL CORREDOR ECOLOGICO
+# JOB BOARD - CORREDOR ECOLOGICO
 
 CORREDOR ECOLOGICO is a job board web platform designed to connect people with employment opportunities inside the community. The system allows users to explore vacancies, apply to available positions, and interact with a modern recruitment platform.
 
